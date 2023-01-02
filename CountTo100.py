@@ -1,4 +1,4 @@
-C=1
+P=1
 for _ in range(100):
-    print("Hello",C)
-    C=C+1
+    print("Hello",P)
+    P=P+1
