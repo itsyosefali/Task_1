@@ -1,4 +1,3 @@
-P=1
-for _ in range(100):
-    print("Hello",P)
+for _ in range(0,100):
+    print("Hello",P=0)
     P=P+1
